@@ -1,0 +1,50 @@
+- npx create-next-app@latest
+
+AI-interview-mocker
+JS
+No ESLint 
+Tailwind CSS 
+No src dire 
+App router 
+no import alias 
+
+- npx create-next-app@latest my-app --typescript --tailwind --eslint 
+- npx shadcn-ui@latest init 
+
+- npx shadcn-ui@latest add button 
+- npx shadcn-ui@latest add collapsible 
+- npx shadcn-ui@latest add dialog
+- npx shadcn-ui@latest add input 
+- npx shadcn-ui@latest add sonner
+- npx shadcn-ui@latest add textarea  
+
+
+//Authentication
+
+Clerk Authentication
+
+- npm install @clerk/nextjs
+
+
+//UI 
+
+hyperui.dev
+
+
+//Neon 
+
+npm i drizzle-orm @neondatabase/serverless
+npm i -D drizzle-kit
+
+
+npm run db:push
+npm run db:studio
+
+- npm install @google/generative-ai
+- npm i react-webcam
+- npm i uuid 
+- npm i moment 
+- npm i react-hook-speech-to-text
+
+
+
