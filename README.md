@@ -1,6 +1,6 @@
 # AI Interview Mocker
 
-**Live Demo**: [Enter Live Link Here]
+**Live Demo**: https://ai-interview-mocker-eta.vercel.app/
 
 The **AI Interview Mocker** is an intelligent web application designed to help users prepare for job interviews through AI-generated mock interview questions. The app integrates cutting-edge technologies like Google's Generative AI (Gemini) and the Drizzle ORM to offer personalized and effective interview preparation. Users can generate interview questions based on job roles and experience, record answers using speech-to-text technology, and receive instant feedback, making it an efficient tool for job interview preparation.
 
